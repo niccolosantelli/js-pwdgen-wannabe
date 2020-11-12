@@ -6,7 +6,7 @@ var cognome = prompt("Qual'è il tuo cognome?");
 var color = prompt("Qual'è il tuo colore preferito?");
 var number = 19;
 
-document.getElementById('funz').innerHTML = "ciao, questa è la tua password: " + name + cognome + color + number ;
+document.getElementById('funz').innerHTML = name + cognome + color + number ;
 
 var age = parseInt(prompt("quanti anni hai?"));
 var yeartoday = 2020;

@@ -1,0 +1,22 @@
+body{
+background-image: url(https://i.pinimg.com/originals/d6/e1/e0/d6e1e07e1019bd4de16f998543fa2692.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+#funz{
+  color: green
+}
+
+.box{
+  width: 700px;
+  height: 250px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% , -50%);
+  text-align: center;
+  background-color: lightgrey;
+  border-radius: 20px
+}
