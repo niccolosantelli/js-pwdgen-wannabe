@@ -1,6 +1,7 @@
 // document.getElementById('funz').innerHTML = "hello"
 
 alert('Benvenuto in "MATRIX"');
+alert("No scherzo è solo un esercizio XD")
 var name = prompt("Qual'è il tuo nome?");
 var cognome = prompt("Qual'è il tuo cognome?");
 var color = prompt("Qual'è il tuo colore preferito?");
